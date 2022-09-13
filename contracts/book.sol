@@ -1,0 +1,1 @@
+// an ERC1155 token that contains the author's address and allows access to the contents of a book.
